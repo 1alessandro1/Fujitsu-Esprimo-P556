@@ -1,4 +1,4 @@
-# Fujitsu-Esprimo-P556/2
+# Fujitsu-Esprimo-P556/2 Hackintosh
 This repository contains the necessary files and information to successfully boot macOS on this prebuilt PC.
 
 - Bootloader version: **OpenCore 0.8.8**
