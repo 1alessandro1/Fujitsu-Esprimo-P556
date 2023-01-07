@@ -109,6 +109,6 @@ USB Ports are mapped thought the SSDT Method (cleanest way). The SSDT in questio
 * [Apple](https://apple.com) for macOS
 * [Acidanthera](https://github.com/Acidanthera) for OpenCore and Lilu-based kexts 
 * [dreamwhite](https://github.com/dreamwhite) for helping me to fix the I2C trackpad and with SSDT/ACPI hotpatching
-* [Gengik84](https://www.macos86.it/profile/1-gengik84/) for the `GENG` method used in `SSDT-USB.aml`
+* [Gengik84](https://www.macos86.it/profile/1-gengik84/) for introducing me to the `GENG` method used in `SSDT-xh_rvp08.aml`
 * [dortania](https://github.com/dortania) team for its detailed guides
 * [Corpnewt](https://github.com/CorpNewt) for SSDTTime and [fewtarius](https://github.com/fewtarius) for CPUFriend fork (now merged into Corp's repo)
